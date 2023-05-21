@@ -25,7 +25,7 @@ This URL has the application deployed in
 ## Project ScreenShot 
 
 ### Image 01
-<img align="center"  src="https://github.com/Ismail1500/Quiz_App/blob/main/img1.png"/>
+<img align="center"  src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img1.png"/>
 
 ### Image 02
 <img align="center" src="https://github.com/Ismail1500/Quiz_App/blob/main/img2.png"/>
