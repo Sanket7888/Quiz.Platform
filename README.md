@@ -25,22 +25,22 @@ This URL has the application deployed in
 ## Project ScreenShot 
 
 ### Image 01
-<img align="center"  src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img1.png"/>
+<img align="center"  src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img1.png"/>
 
 ### Image 02
-<img align="center" src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img2.png"/>
+<img align="center" src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img2.png"/>
 
 ### Image 03
-<img align="center" src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img3.png"/>
+<img align="center" src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img3.png"/>
 
 ### Image 04 
-<img align="center" src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img4.png"/>
+<img align="center" src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img4.png"/>
 
 ### Image 05
-<img align="center" src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img5.png"/>
+<img align="center" src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img5.png"/>
 
 ### Image 06
-<img align="center" src="https://github.com/Sanket7888/Quiz.Platform/blob/main/img6.png"/>
+<img align="center" src="https://github.com/Sanket7888/Quiz_Platform/blob/main/img6.png"/>
 
 
 ### Technologies that we were used in this project.
